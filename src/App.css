@@ -1,0 +1,32 @@
+header, footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+.fbLogin {
+    margin-top: 50px;
+}
+
+.fbLogout {
+    margin-top: 8px;
+}
+
+.fbName {
+    margin-top: 15px;
+}
+
+.idContainer {
+    padding: 10px;
+    margin: 10px;
+}
+
+.idLabel {
+    font-size: 24px;
+}
