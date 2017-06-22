@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
-const url = 'http://localhost:64676/api/v1/uniqueinteger/current';
+const url = 'http://incrementingintegersapi.azurewebsites.net/api/v1/uniqueinteger/current';
 
 class CurrentId extends React.Component {
     state = { id: 0 }
